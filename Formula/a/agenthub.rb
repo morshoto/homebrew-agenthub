@@ -3,6 +3,7 @@ class Agenthub < Formula
   homepage "https://github.com/morshoto/agenthub"
   url "https://github.com/morshoto/agenthub/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "173fcee428bed572235202b51433e8d753ae91701514f897079dcf966c6958a8"
+  version "0.1.0"
   license "MIT"
 
   livecheck do
