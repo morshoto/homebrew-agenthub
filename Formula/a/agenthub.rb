@@ -1,8 +1,8 @@
 class Agenthub < Formula
   desc "CLI for provisioning and operating AgentHub environments"
   homepage "https://github.com/morshoto/agenthub"
-  url "https://github.com/morshoto/agenthub/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "686e2de8a4b1c3c843ec8b1468245304ee4668abfd15b83d4ca68d5a73bdc6e7"
+  url "https://github.com/morshoto/agenthub/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "9102421cf6aa2b7a8cdd48b043eb168895e84c85f20f5c7ab015d19b63fb7d2b"
   license "MIT"
 
   livecheck do
